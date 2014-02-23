@@ -1,2 +1,2 @@
-infinispan-dosker
+infinispan-docker
 =================
